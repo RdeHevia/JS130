@@ -12,5 +12,7 @@
     "coverage": "(jest --coverage) && (open ./coverage/lcov-report/index.html)"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
 }

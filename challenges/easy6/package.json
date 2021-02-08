@@ -1,5 +1,5 @@
 {
-  "name": "roman-numbers",
+  "name": "perfect_number",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest",
-    "coverage": "cd test && ls && jest --coverage && open coverage/lcov-report/index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raul de Hevia",
   "license": "ISC"
